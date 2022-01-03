@@ -1,0 +1,11 @@
+{
+    "name": "BigCash",
+    "symbol": "BCASH",
+    "type": "TRC20",
+    "decimals": 18,
+    "description": "BigCash is a low-fee.",
+    "website": "https://bigcash.com/",
+    "explorer": "https://tronscan.io/#/token20/TV27jaA6hb3xcQRF8cCeKdJHcPKAeNeF11",
+    "status": "active",
+    "id": "TH1GU8kgQkA3kXzz6btZy9CnjYoWgwbTxs"
+}
